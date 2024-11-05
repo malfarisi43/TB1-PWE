@@ -4,8 +4,9 @@
 Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mudah dan cepat untuk mengakses fitur-fitur utama.
 
 <div align="center">
- ![alt text](https://github.com/taqiyyaaa/TB1-PWE/blob/main/public/Halaman%20Produk.png?raw=true)
+  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/Halaman%20Produk.png" alt="Tampilan Homepage" width="600">
 </div>
+
 
 ---
 
