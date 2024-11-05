@@ -4,7 +4,7 @@
 Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mudah dan cepat untuk mengakses fitur-fitur utama.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/Halaman%20Produk.png" alt="Tampilan Homepage" width="600">
+  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/images/HomePage.png" alt="Tampilan Homepage" width="600">
 </div>
 
 
@@ -14,7 +14,7 @@ Desain homepage yang bersih dan sederhana, memberikan pengguna navigasi yang mud
 Halaman produk menampilkan semua produk yang tersedia dengan detail lengkap. Pengguna dapat melihat dan mengelola produk secara efisien.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/481eaff4-cc56-472d-a4ab-07f19a38237f" alt="Tampilan Produk" width="600">
+  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/Halaman%20Produk.png" alt="Tampilan Halaman Produk" width="600">
 </div>
 
 ---
@@ -23,8 +23,9 @@ Halaman produk menampilkan semua produk yang tersedia dengan detail lengkap. Pen
 Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan user-friendly.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ed6ad95-07b9-4f5c-ba51-1002d3082734" alt="Tampilan Add Produk" width="600">
+  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/images/Tampilan%20Add%20Produk.png" alt="Tampilan Add Produk" width="600">
 </div>
+
 
 ---
 
@@ -32,7 +33,7 @@ Menambahkan produk baru kini semakin mudah dengan antarmuka yang intuitif dan us
 Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir dengan baik, memudahkan pengguna dalam memperbarui informasi produk.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f1bca197-d177-4424-bb1d-9ed8deb9ce52" alt="Tampilan Edit Produk" width="600">
+  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/images/Tampilan%20Edit%20Produk.png" alt="Tampilan Edit Produk" width="600">
 </div>
 
 ---
@@ -41,8 +42,9 @@ Pengeditan produk dapat dilakukan dengan cepat melalui form yang terorganisir de
 Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, memastikan data tersimpan dengan aman dan terorganisir.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/656b2618-ddca-4156-9822-663944b0dae9" alt="Database di MySQL" width="600">
+  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/images/Struktur%20Database%20di%20Mysql.png" alt="Tampilan Delete Produk" width="600">
 </div>
+
 
 ---
 
@@ -50,7 +52,7 @@ Struktur database di MySQL yang mendukung penyimpanan data produk dan pengguna, 
 Berikut adalah tampilan ketika produk berhasil dihapus dari sistem.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/68a39b73-4bee-4be3-8845-ef2745a7333e" alt="Tampilan Delete Produk" width="600">
+  <img src="https://raw.githubusercontent.com/taqiyyaaa/TB1-PWE/main/public/images/Tampilan%20Delete%20Produk.png" alt="Tampilan Add Produk" width="600">
 </div>
 
 
